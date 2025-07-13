@@ -1,6 +1,6 @@
 #นาย จิณณะ พันธุมงคล 6806021612053 Sec:C
 
-number = int(input("Enter number money withdraw : "))
+number = int(input("Enter integer number : "))
 
 oneThousand = number//1000
 number = number - (oneThousand*1000)
