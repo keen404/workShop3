@@ -2,7 +2,7 @@
 
 amount = int(input("Enter amount : "))
 rate = float(input("Enter rate : ")) / 100
-year = int(input("Enter yer : "))
+year = int(input("Enter year : "))
 
 futureValue = amount * (1 + rate) ** year
 
